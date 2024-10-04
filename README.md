@@ -28,3 +28,12 @@ I will try to organize this more in the future, for now it's just a bunch of lin
 - [Dipkumar Patel: Speeding up the GPT - KV cache (Blog)](https://dipkumar.dev/becoming-the-unbeatable/posts/gpt-kvcache/)
 - [Lilian Weng: Large Transformer Model Inference Optimization (Blog)](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/)
 - [Carol Chen: Transformer Inference Arithmetic (Blog)](https://kipp.ly/transformer-inference-arithmetic/)
+
+## DeepSpeed
+
+- [Large Model Training and Inference with DeepSpeed (Video)](https://www.youtube.com/watch?v=cntxC3g22oU&t=1754s&pp=ygUJZGVlcHNwZWVk)
+- [Zero Redundancy Optimizer (Docs)](https://www.deepspeed.ai/tutorials/zero/)
+- [ZeRO & DeepSpeed: New system optimizations enable training models with over 100 billion parameters (Blog, Feb 2020)](https://www.microsoft.com/en-us/research/blog/ZeRO-deepspeed-new-system-optimizations-enable-training-models-with-over-100-billion-parameters/)
+- [ZeRO-2 & DeepSpeed: Shattering barriers of deep learning speed & scale (Blog, May 2020)](https://www.microsoft.com/en-us/research/blog/ZeRO-2-deepspeed-shattering-barriers-of-deep-learning-speed-scale/)
+- [DeepSpeed ZeRO-3 Offload (Docs, Mar 2021)](https://www.deepspeed.ai/2021/03/07/zero3-offload.html)
+- [DeepSpeed ZeRO++: A leap in speed for LLM and chat model training with 4X less communication (Blog, June 2023)](https://www.microsoft.com/en-us/research/blog/deepspeed-zero-a-leap-in-speed-for-llm-and-chat-model-training-with-4x-less-communication/)
