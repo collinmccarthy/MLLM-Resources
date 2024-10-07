@@ -37,3 +37,7 @@ I will try to organize this more in the future, for now it's just a bunch of lin
 - [ZeRO-2 & DeepSpeed: Shattering barriers of deep learning speed & scale (Blog, May 2020)](https://www.microsoft.com/en-us/research/blog/ZeRO-2-deepspeed-shattering-barriers-of-deep-learning-speed-scale/)
 - [DeepSpeed ZeRO-3 Offload (Docs, Mar 2021)](https://www.deepspeed.ai/2021/03/07/zero3-offload.html)
 - [DeepSpeed ZeRO++: A leap in speed for LLM and chat model training with 4X less communication (Blog, June 2023)](https://www.microsoft.com/en-us/research/blog/deepspeed-zero-a-leap-in-speed-for-llm-and-chat-model-training-with-4x-less-communication/)
+
+## HuggingFace
+
+- [Trainer (Docs)](https://huggingface.co/docs/transformers/en/trainer)
